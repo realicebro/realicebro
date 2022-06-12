@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @realicebro
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning HTML & CSS
+- 💞️ I’m looking to collaborate on frontend projects
+- 📫 How to reach me: text me
